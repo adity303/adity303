@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditya.srivastava686755@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link](https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link](https://drive.google.com/file/d/1WSt6L1lx7G1eB9FLrO9Q1L-_lBc4KP27/view?usp=drive_link)
 
 - ⚡ Fun fact **Talk with me, u will know better 😅😅**
 
