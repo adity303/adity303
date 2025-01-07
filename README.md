@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">A Electronics & Telecommunication and Data Science student from India</h3>
+<h3 align="center"Engineer Student</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditya.srivastava686755@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link](https://drive.google.com/file/d/1WSt6L1lx7G1eB9FLrO9Q1L-_lBc4KP27/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link](https://docs.google.com/document/d/1DzkavHJWxowl-DJ4K0-QK70z0nWVblJk/edit?usp=drive_link&ouid=113558030967514314753&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Talk with me, u will know better 😅😅**
 
