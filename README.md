@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">Engineering Student</h3>
+<h3 align="center">Engineering Graduate | Passionate about Data & Electronics</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNlbHR6M2djOHN0cHRraml6ZmdiMXN1ZW11bWo3eGFlZThibG1heCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity303&label=Profile%20views&color=0e75b6&style=flat" alt="adity303" /> </p>
 
@@ -9,15 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/adityas75121941" target="blank"><img src="https://img.shields.io/twitter/follow/adityas75121941?logo=twitter&style=for-the-badge" alt="adityas75121941" /></a> </p>
 
-- 🌱 I’m currently learning **Data Learning Course**
+- 🌱 I’m currently learning **Data Analysis & Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adity303](https://github.com/adity303)
 
 - 📫 How to reach me **aditya.srivastava686755@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link](https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link)
 
-- ⚡ Fun fact **Talk with me, you'll know better 😅😅**
+- ⚡ Fun fact **Ronaldo fan and a tech enthusiast ⚽🚀**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,20 +30,35 @@
 <a href="https://auth.geeksforgeeks.org/user/2004313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2004313" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">Languages:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us
-::contentReference[oaicite:0]{index=0}
- 
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/337/337947.png" alt="SQL" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1022/1022266.png" alt="Embedded Systems" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1965/1965700.png" alt="Electronics" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h3 align="center">⚡ Ronaldo Suii Celebration</h3>
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1mZHM1M3B2ZjJ1a245M3ZqeHNvOHFkZ2Y4bjhpOGt0cnE4dDBoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20MnK9KSyq5nMTF7AG/giphy.gif" alt="Ronaldo Suii" width="300"/>
+</p>
