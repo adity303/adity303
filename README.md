@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditya.srivastava686755@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NiAqxSiWGvaiQJF2xXSvGchIoQgki7OR/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1qYcfpZLYnfydX2rko_Jalv8drYJMrTDV/view?usp=drive_link)
 
 - ⚡ Fun fact **Ronaldo fan and a tech enthusiast ⚽🚀**
 
@@ -35,10 +35,8 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/337/337947.png" alt="SQL" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1022/1022266.png" alt="Embedded Systems" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1965/1965700.png" alt="Electronics" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/> </a>
