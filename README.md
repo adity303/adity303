@@ -57,8 +57,7 @@
 <h3 align="center">⚡ My Idol Ronaldo </h3>
 <p align="left">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1mZHM1M3B2ZjJ1a245M3ZqeHNvOHFkZ2Y4bjhpOGt0cnE4dDBoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20MnK9KSyq5nMTF7AG/giphy.gif" alt="Ronaldo Suii" width="300"/>
-<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JkMGZmOWc5NnB5bGY2ajU0MnBnM2E3dmljaW1weDByZTZjOWdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CRLn4g4MiIyA/giphy.gif"
-alt="Ronaldo Suii" width="300"/> 
+<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JkMGZmOWc5NnB5bGY2ajU0MnBnM2E3dmljaW1weDByZTZjOWdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CRLn4g4MiIyA/giphy.gif" alt="Ronaldo Suii" width="300"/> 
 <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndvOXpxNHplamZrd21hYnE5ZXE5anAxZHB1ejdkaTNzNGs3Yjl3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gBkbmnBw4ml0fO5fSH/giphy.gif"
 alt="Ronaldo Suii" width="300"/> 
 </p>
