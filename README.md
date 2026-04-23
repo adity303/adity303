@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning New Technologies day by day.
@@ -35,11 +35,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=adity303&theme=radical&radius=10" alt="adity303's Activity Graph" />
 </p>
-
-## MY IDOL 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdwenQxNjJobmxkcW1qbHdsbTc1djd5emZuN3IwOTk3ZmF6NHRmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r1IMdmkhUcpzy/giphy.gif" width="100%" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgzbnlmandqazlqcnVqN294aDR1N3VrcDBzMW5oZHkzdWsyc3YxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eydSI1JrEVsT26mp5g/giphy.gif" width="100%" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgzbnlmandqazlqcnVqN294aDR1N3VrcDBzMW5oZHkzdWsyc3YxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IP1rKcrYpvrfksMmGO/giphy.gif" width="100%" />
 
 
 ## 🛠️ Languages & Tools
@@ -122,6 +117,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
