@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning New Technologies day by day.
 - 👨‍💻 All of my projects are available at https://github.com/adity303
 - 📫 How to reach me aditya.srivastava686755@gmail.com
-- 📄 Know about my experiences - (My Resume)
+- 📄 Know about my experiences - ([My Resume](https://drive.google.com/file/d/1tJoy7UVxYOK5KLdl5Nwb_9wUdNyass6I/view?usp=drive_link))
 - ⚡ Fun fact Ronaldo fan and a tech enthusiast ⚽🚀
 
 
