@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkxanFjc2QzdW45d2xkZDRyeWUwemxwZzBmMXg2aXV5c3I4eHgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4XK1gKM7ixoNZf8OFX/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning New Technologies day by day.
