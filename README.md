@@ -7,7 +7,7 @@
 </p> 
 
 ## About my Idol 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwbXd3cnkxbWduZm16MTN1OHl6Z2xrZmZoeDM1dmdhMHVjY2xlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif" width="100%" />
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwbXd3cnkxbWduZm16MTN1OHl6Z2xrZmZoeDM1dmdhMHVjY2xlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif" width="100%"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w3bHhkZXNvbTliNm82YjJtbGcyaDNiNDFqbWhxODdiZHJxbXozZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xvPEzGrFTB0NLafedl/giphy.gif) />
 
 ## 📌 About Me
 - 🌱 I’m currently learning New Technologies day by day.
