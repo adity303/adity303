@@ -4,9 +4,9 @@
   <a href="https://komarev.com/ghpvc/?username=adity303">
     <img src="https://komarev.com/ghpvc/?username=adity303&label=Profile%20views&color=00FFFF&style=flat-square" alt="adity303's profile views" />
   </a>
-</p>
+</p> 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkxanFjc2QzdW45d2xkZDRyeWUwemxwZzBmMXg2aXV5c3I4eHgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4XK1gKM7ixoNZf8OFX/giphy.gif" alt="Banner" width="100%" />
+<img "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwbXd3cnkxbWduZm16MTN1OHl6Z2xrZmZoeDM1dmdhMHVjY2xlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif", src="banner", width=100% />
 
 ## 📌 About Me
 - 🌱 I’m currently learning New Technologies day by day.
