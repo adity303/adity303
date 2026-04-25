@@ -6,7 +6,8 @@
   </a>
 </p> 
 
-<img "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwbXd3cnkxbWduZm16MTN1OHl6Z2xrZmZoeDM1dmdhMHVjY2xlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif", src="banner", width=100% />
+## About my Idol 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwbXd3cnkxbWduZm16MTN1OHl6Z2xrZmZoeDM1dmdhMHVjY2xlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning New Technologies day by day.
